@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <TaskList />
-      <h1>Hello React </h1>
+      <h1>Hello React D2 </h1>
     </div>
   );
 }
